@@ -1,0 +1,18 @@
+{
+  "Home": {
+    "title": "KochPlan",
+    "hero_headline": "Was kochst du heute?",
+    "hero_cta": "Entdecken",
+    "weekly_plan": "Wochenplan",
+    "community_rated": "Beliebt in der Community",
+    "prep_time": "{min} Min."
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "weekly_plan": "Wochenplan",
+    "community": "Community",
+    "profile": "Profil",
+    "logout": "Abmelden",
+    "login": "Anmelden"
+  }
+}

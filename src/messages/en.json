@@ -1,0 +1,18 @@
+{
+  "Home": {
+    "title": "KochPlan",
+    "hero_headline": "What are you cooking today?",
+    "hero_cta": "Discover",
+    "weekly_plan": "Weekly Plan",
+    "community_rated": "Community Favorites",
+    "prep_time": "{min} Min."
+  },
+  "Navigation": {
+    "home": "Home",
+    "weekly_plan": "Weekly Plan",
+    "community": "Community",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login"
+  }
+}
